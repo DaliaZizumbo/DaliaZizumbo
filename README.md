@@ -1,16 +1,4 @@
 ### DaliaZizumbo
+Hi my name is Dalia and I'm from Chicago, IL! I'm a first-generation Latina college student at Northeastern University in Boston, MA where I'm studying data science and behavioral neuroscience on the pre-med track.
 
-<!--
-**DaliaZizumbo/DaliaZizumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on reading a new book
-- 🌱 I’m currently learning computer science and behavioral neuroscience related courses 
-- 👯 I’m looking to collaborate on new research projects with my peers
-- 🤔 I’m looking for help with looking for a new book
-- 💬 Ask me about my favorite food
-- 📫 How to reach me: Zizumbo.d@northeastern.edu
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I know eleven people with the same birthday as me
--->
+Why my major? I find how the brain functions related to mental health, disorders, and diseases very fascinating. I decided to also major in data science because it's very important to know how to read and analyze data in medicine, especially with larger data sets. My aspiring career goals consist of obtaining an MD and PhD to be able to give back to my community through medicine and research. 
